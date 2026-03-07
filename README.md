@@ -188,8 +188,8 @@ Categories like Computers and Home Appliances showed the highest average product
 
 Some orders were delivered after the estimated delivery date, suggesting possible improvements needed in logistics and supply chain operations.
 
-📁 Project Structure
-```Ecommerce-KPI-Analysis
+📁 ```Project Structure
+Ecommerce-KPI-Analysis
 │
 ├── datasets
 │   ├── customers.csv
